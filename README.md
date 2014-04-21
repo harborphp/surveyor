@@ -1,3 +1,3 @@
 # Surveyor
 
-A simple to use DataMapper ORM for PHP.
+A DataMapper ORM for PHP that doesn't suck.

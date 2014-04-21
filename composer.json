@@ -1,6 +1,6 @@
 {
     "name": "dhrrgn/surveyor",
-    "description": "A simple to use DataMapper ORM for PHP.",
+    "description": "A DataMapper ORM for PHP that doesn't suck.",
     "license": "MIT",
     "authors": [
         {
