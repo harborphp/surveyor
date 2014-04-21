@@ -1,0 +1,14 @@
+{
+    "name": "dhrrgn/surveyor",
+    "description": "A simple to use DataMapper ORM for PHP.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Horrigan",
+            "email": "dan@dhorrigan.com"
+        }
+    ],
+    "require": {
+
+    }
+}
